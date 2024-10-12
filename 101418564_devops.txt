@@ -1,3 +1,6 @@
-Devops is a class where we learn about the innerworkings of project structure. We have gone over command line repository management, and are 
-currently doing an assignment that revolves entirely around the management of branches and project strucutre with multiple people from a remote 
-repository. 
+A DevOps course provides a comprehensive understanding of the practices and tools used to integrate development and IT operations for faster, 
+more efficient software delivery. It typically covers key concepts such as continuous integration, continuous delivery (CI/CD), infrastructure 
+as code, and automation of testing and deployment processes. Students learn how to use modern tools like Git, Docker, Jenkins, Kubernetes, and 
+cloud services to streamline workflows, reduce errors, and ensure high software quality. The course emphasizes collaboration between 
+development and operations teams, fostering a culture of agility and adaptability in software development cycles. By the end, participants gain 
+practical experience in setting up pipelines, managing cloud infrastructure, and implementing monitoring and feedback systems. 

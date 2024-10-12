@@ -1,0 +1,22 @@
+DevOps - Software Development Lifecycle
+
+The Software Development Life Cycle (SDLC) is a structured process used for planning, creating, 
+testing, and deploying software applications. It provides a systematic framework to guide software development from conception to delivery, 
+ensuring quality and efficiency throughout the project.
+
+The SDLC typically consists of several phases. The first phase is Requirement Analysis, 
+where stakeholders' needs are gathered and analyzed to understand what the software should achieve. 
+Following this is the Planning phase, where the project scope, resources, timelines, and budget are defined, creating a roadmap for development.
+
+The Design phase involves planning the software architecture and user interfaces, 
+including both high-level design (overall system architecture) and low-level design (detailed specifications). 
+Next is the Implementation (Coding) phase, where developers write the actual code based on the design specifications, 
+translating design documents into a working software application.
+
+Once coding is complete, the software undergoes the Testing phase, where it is rigorously tested to identify and fix defects. 
+Various testing methods, such as unit testing, integration testing, and user acceptance testing, are employed to ensure the software meets the required standards. 
+After testing, the software enters the Deployment phase, where it is installed and configured in the production environment for users to access, which may also involve training.
+
+Finally, the software enters the Maintenance phase, where ongoing support, updates, and bug fixes are provided to ensure the software remains functional and relevant. 
+Different methodologies can be applied within the SDLC, such as Agile, Waterfall, or DevOps, each offering unique approaches to managing the development process. 
+By following the SDLC, organizations can enhance project visibility, reduce risks, and improve software quality, ultimately leading to better user satisfaction.

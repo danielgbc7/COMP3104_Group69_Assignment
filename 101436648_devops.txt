@@ -1,4 +1,5 @@
 COMP3104 - DevOps
+-----------------
 
 DevOps is a collaborative approach that integrates software development (Dev) and IT operations (Ops) to improve software delivery efficiency and quality. 
 By breaking down silos between teams, DevOps fosters a culture of collaboration and shared responsibility.

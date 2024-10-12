@@ -1,0 +1,3 @@
+COMP 3104 - DevOps
+
+At George Brown College, DevOps is a collaborative approach that integrates software development (Dev) and IT operations (Ops) to improve the efficiency, speed, and quality of software delivery. It emphasizes automation, continuous integration/continuous delivery (CI/CD), and collaboration between teams to quickly release updates, respond to customer feedback, and maintain system stability. DevOps practices aim to break down silos between development and operations, allowing for faster, more reliable software deployment and better overall system performance.

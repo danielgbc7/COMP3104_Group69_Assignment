@@ -1,0 +1,3 @@
+A Full Stack Developer is a professional skilled in both front-end and back-end development, enabling them to work on all aspects of a web application. On the front-end, they manage the user interface and user experience (UI/UX) using languages like HTML, CSS, and JavaScript, along with frameworks like React or Angular. On the back-end, they handle server-side logic, databases, and APIs, using technologies like Node.js, Python, or PHP and databases like MySQL or MongoDB.
+
+Full Stack Developers are versatile, capable of building and maintaining complete web applications, from the client side to server infrastructure. This makes them highly valuable in agile teams, as they can contribute to various stages of the development process.

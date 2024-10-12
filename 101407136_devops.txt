@@ -1,1 +1,1 @@
-COMP 3104 (DevOps) at George Brown College teaches students the principles of DevOps, focusing on automation, CI/CD, and tools like Docker, Git, and Jenkins to streamline software development and operations.
+COMP 3104 (DevOps) at George Brown College teaches students the principles of DevOps, focusing on automation, CI/CD, and tools like Docker, Git, and Jenkins to streamline software development and operations!

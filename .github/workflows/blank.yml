@@ -1,10 +1,10 @@
-name: GitHub Actions Demo
+name: CI Workflow
 on: [push]
 jobs:
-  Explore-GitHub-Actions:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "🎉 The job was automatically triggered."
-      - name: Check out repository code
+      - name: Checkout Code
         uses: actions/checkout@v4
-      - run: echo "💡 The repository has been cloned."
+      - name: Display Message
+        run: echo "CI is working!"
